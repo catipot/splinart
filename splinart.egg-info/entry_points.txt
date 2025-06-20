@@ -1,0 +1,2 @@
+[console_scripts]
+splinart = splinart.scripts.cli_splinart:main
